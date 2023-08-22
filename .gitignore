@@ -1,0 +1,7 @@
+.terraform.lock.hcl
+.*
+.terraform.lock.hcl
+!.gitignore
+terraform.tfstate.backup
+terraform.tfstate
+!.pre-commit-config.yaml
